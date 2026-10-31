@@ -21,8 +21,6 @@ def scrape():
             )
         )
 
-    print(data)
-
     with open("data.csv", "w", newline="") as file:
         writer = csv.writer(file)
         for row in data:
