@@ -6,3 +6,5 @@ The scraper when run will scrape [Fake Python](https://realpython.github.io/fake
 It uses the `csv`, `requests`, and `bs4` modules.
 
 The `data.csv` file created when running this code is also given.
+
+To run, download `scraper.py` and run `python scraper.py` in terminal.
